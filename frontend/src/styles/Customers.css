@@ -1,0 +1,10 @@
+/* Customers.css */
+.customers-module {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.customers-module h1 {
+  color: #333;
+}

@@ -1,0 +1,15 @@
+/* Reporting.css */
+.module-container {
+  padding: 20px;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 14px;
+}

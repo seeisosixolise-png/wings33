@@ -1,0 +1,11 @@
+/* Inventory.css */
+.module-container {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.page-header h1 {
+  margin-bottom: 15px;
+}
